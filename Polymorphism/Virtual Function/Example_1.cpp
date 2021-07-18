@@ -16,7 +16,7 @@ void show()
     cout<<"Child class B"<<endl;
 }
 };
-class C : public B
+class C : public A
 {
 public:
 void show()
